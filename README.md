@@ -236,7 +236,7 @@ Only organizers have permission to create events:
 **Login page**
 <img width="905" height="409" alt="image" src="https://github.com/user-attachments/assets/6b723fd4-3242-426e-8d9b-8c809befd493" />
 <img width="927" height="412" alt="image" src="https://github.com/user-attachments/assets/44e82dd8-3d23-4f4b-a006-85cd4258d7d8" />
--** Explore Events **
+**Explore Events**
 <img width="930" height="431" alt="image" src="https://github.com/user-attachments/assets/b132bd0c-2cb7-4de7-8200-b2a079978ff9" />
 <img width="939" height="397" alt="image" src="https://github.com/user-attachments/assets/07f56db2-232d-49ea-9be8-4efb55c34520" />
 ## Login page for attendee
@@ -281,6 +281,7 @@ on going events
 <img width="911" height="419" alt="image" src="https://github.com/user-attachments/assets/109832d5-2833-4434-b47d-9a0e5decd7c0" />
 <img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/7e024a13-e1bf-49ef-aace-628da459e416" />
 <img width="383" height="419" alt="image" src="https://github.com/user-attachments/assets/f0d99371-5a48-4999-846f-917fdf49ae23" />
+
 
 
 
