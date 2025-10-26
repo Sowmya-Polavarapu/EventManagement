@@ -258,6 +258,12 @@ Only organizers have permission to create events:
 
 **print ticket** 
 <img width="547" height="421" alt="image" src="https://github.com/user-attachments/assets/05fafda6-9348-4538-80db-c0032dab8c94" />
+**Event details**
+<img width="909" height="316" alt="image" src="https://github.com/user-attachments/assets/5b855c00-646d-49e0-a790-fe6c8d59f288" />
+<img width="829" height="347" alt="image" src="https://github.com/user-attachments/assets/4f2ca95f-e80e-4774-a9bb-fee653e569bb" />
+<img width="550" height="313" alt="image" src="https://github.com/user-attachments/assets/7e5e260b-28bf-47cf-9b52-e06f1bd6416c" />
+
+
 
 ## Login page for organizer
 <img width="525" height="387" alt="image" src="https://github.com/user-attachments/assets/a06b3dbe-f697-44a2-8462-8c6c459e5dd5" />
@@ -296,6 +302,7 @@ Only organizers have permission to create events:
 <img width="911" height="419" alt="image" src="https://github.com/user-attachments/assets/109832d5-2833-4434-b47d-9a0e5decd7c0" />
 <img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/7e024a13-e1bf-49ef-aace-628da459e416" />
 <img width="383" height="419" alt="image" src="https://github.com/user-attachments/assets/f0d99371-5a48-4999-846f-917fdf49ae23" />
+
 
 
 
