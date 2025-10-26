@@ -228,4 +228,5 @@ Only organizers have permission to create events:
 - **Visualization**: Chart.js
 
 ## outputs 
-- ** <img width="923" height="427" alt="image" src="https://github.com/user-attachments/assets/033a458c-b80d-4209-85a4-13b344e88423" />
+- ** Homepage** <img width="923" height="427" alt="image" src="https://github.com/user-attachments/assets/275a9181-7cb0-4f47-9d7e-a46eddae368d" />
+
