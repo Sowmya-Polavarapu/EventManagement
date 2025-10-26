@@ -226,3 +226,6 @@ Only organizers have permission to create events:
 - **Authentication**: Flask-Login
 - **Forms & Validation**: Flask-WTF, Email-Validator
 - **Visualization**: Chart.js
+
+## outputs 
+- ** <img width="923" height="427" alt="image" src="https://github.com/user-attachments/assets/033a458c-b80d-4209-85a4-13b344e88423" />
