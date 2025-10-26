@@ -250,7 +250,7 @@ Only organizers have permission to create events:
 <img width="929" height="338" alt="image" src="https://github.com/user-attachments/assets/b1efd66c-1e16-4537-9289-53b74a6be670" />
 <img width="912" height="410" alt="image" src="https://github.com/user-attachments/assets/29652c29-c9bb-4f2e-9c33-bd8b2d66b9a5" />
 <img width="872" height="421" alt="image" src="https://github.com/user-attachments/assets/e44f6943-628d-4a39-af72-e34065fe2a10" />
--**
+
 
 **My tickets in the attendee account**
 <img width="929" height="422" alt="image" src="https://github.com/user-attachments/assets/5072528f-b85b-4379-9e84-d5ed98fb2205" />
@@ -293,6 +293,7 @@ on going events
 <img width="911" height="419" alt="image" src="https://github.com/user-attachments/assets/109832d5-2833-4434-b47d-9a0e5decd7c0" />
 <img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/7e024a13-e1bf-49ef-aace-628da459e416" />
 <img width="383" height="419" alt="image" src="https://github.com/user-attachments/assets/f0d99371-5a48-4999-846f-917fdf49ae23" />
+
 
 
 
