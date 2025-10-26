@@ -229,6 +229,7 @@ Only organizers have permission to create events:
 
 ## outputs 
  **Homepage** <img width="923" height="427" alt="image" src="https://github.com/user-attachments/assets/275a9181-7cb0-4f47-9d7e-a46eddae368d" />
+ 
 **Register page for Attendee and Organizer**
 <img width="925" height="432" alt="image" src="https://github.com/user-attachments/assets/7cca88aa-6323-4aa0-a8f8-e0e08b42aa42" />
 <img width="930" height="440" alt="image" src="https://github.com/user-attachments/assets/7b250505-4cbf-4e4c-a246-d588d07cd0f2" />
@@ -236,17 +237,21 @@ Only organizers have permission to create events:
 **Login page**
 <img width="905" height="409" alt="image" src="https://github.com/user-attachments/assets/6b723fd4-3242-426e-8d9b-8c809befd493" />
 <img width="927" height="412" alt="image" src="https://github.com/user-attachments/assets/44e82dd8-3d23-4f4b-a006-85cd4258d7d8" />
+
 **Explore Events**
 <img width="930" height="431" alt="image" src="https://github.com/user-attachments/assets/b132bd0c-2cb7-4de7-8200-b2a079978ff9" />
 <img width="939" height="397" alt="image" src="https://github.com/user-attachments/assets/07f56db2-232d-49ea-9be8-4efb55c34520" />
+
 ## Login page for attendee
 <img width="594" height="365" alt="image" src="https://github.com/user-attachments/assets/bc1c03d1-be6a-4492-8271-48987f35ad48" />
+
  **Explore events**
  <img width="856" height="377" alt="image" src="https://github.com/user-attachments/assets/f0f6c303-3163-4f27-86de-5731ac82d3d1" />
 <img width="929" height="338" alt="image" src="https://github.com/user-attachments/assets/b1efd66c-1e16-4537-9289-53b74a6be670" />
 <img width="912" height="410" alt="image" src="https://github.com/user-attachments/assets/29652c29-c9bb-4f2e-9c33-bd8b2d66b9a5" />
 <img width="872" height="421" alt="image" src="https://github.com/user-attachments/assets/e44f6943-628d-4a39-af72-e34065fe2a10" />
--** 
+-**
+
 **My tickets in the attendee account**
 <img width="929" height="422" alt="image" src="https://github.com/user-attachments/assets/5072528f-b85b-4379-9e84-d5ed98fb2205" />
 <img width="888" height="407" alt="image" src="https://github.com/user-attachments/assets/a2ea3956-f7ec-4db7-8cc7-d717f3adbec6" />
@@ -257,31 +262,38 @@ print ticekt page
 <img width="547" height="421" alt="image" src="https://github.com/user-attachments/assets/6dae441b-2fb9-4073-acb5-b6cf2a68539d" />
 home page
 <img width="745" height="332" alt="image" src="https://github.com/user-attachments/assets/6e90191d-1b29-4169-acba-97d037612249" />
+
 **Organizer Dashboard**
 <img width="874" height="358" alt="image" src="https://github.com/user-attachments/assets/a40b61da-5c73-427f-b11a-ba487e369e74" /> 
 <img width="860" height="326" alt="image" src="https://github.com/user-attachments/assets/1581f2b7-48cd-4f9d-9ac8-7c8a5962bfda" />
 <img width="850" height="412" alt="image" src="https://github.com/user-attachments/assets/d353227a-b39f-4c67-9d71-c58bdb3dabd8" />
 
--**Events details and Edit options** 
+**Events details and Edit options** 
 <img width="887" height="341" alt="image" src="https://github.com/user-attachments/assets/b3db5140-a625-44f5-bb62-a75c3ac655a6" />
+
 **Events created** 
 <img width="899" height="374" alt="image" src="https://github.com/user-attachments/assets/ee55a07a-4e0d-4725-a3b8-ec40c2fb1f20" />
+
 **Upcoming events**
 <img width="904" height="272" alt="image" src="https://github.com/user-attachments/assets/9c489a1d-50e5-4593-a748-21f9de8f95e0" />
 on going events
 <img width="924" height="278" alt="image" src="https://github.com/user-attachments/assets/61a754fc-36c8-431c-b991-47ca32437e0c" />
+
 **Creating a New Event**
 <img width="854" height="418" alt="image" src="https://github.com/user-attachments/assets/02d420cd-fb38-4906-a71f-89d31cee4a5d" />
 <img width="844" height="360" alt="image" src="https://github.com/user-attachments/assets/11a65861-afef-42a9-8709-6ffdc457c32a" />
 <img width="844" height="328" alt="image" src="https://github.com/user-attachments/assets/037d1f9d-8857-400f-9a7d-44662803b3dc" />
+
 **Account details for organizer**
 <img width="914" height="423" alt="image" src="https://github.com/user-attachments/assets/834ee347-13a1-4569-983b-6ae8ebd4606e" />
 <img width="886" height="425" alt="image" src="https://github.com/user-attachments/assets/ff279568-6dee-4c52-bedc-13d4ab53b760" />
 <img width="219" height="124" alt="image" src="https://github.com/user-attachments/assets/ea64487c-fcf5-4ae0-874b-8c1cd601a064" />
+
 **Accoount details for Attendee**
 <img width="911" height="419" alt="image" src="https://github.com/user-attachments/assets/109832d5-2833-4434-b47d-9a0e5decd7c0" />
 <img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/7e024a13-e1bf-49ef-aace-628da459e416" />
 <img width="383" height="419" alt="image" src="https://github.com/user-attachments/assets/f0d99371-5a48-4999-846f-917fdf49ae23" />
+
 
 
 
