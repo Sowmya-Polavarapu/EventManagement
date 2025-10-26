@@ -255,12 +255,13 @@ Only organizers have permission to create events:
 **My tickets in the attendee account**
 <img width="929" height="422" alt="image" src="https://github.com/user-attachments/assets/5072528f-b85b-4379-9e84-d5ed98fb2205" />
 <img width="888" height="407" alt="image" src="https://github.com/user-attachments/assets/a2ea3956-f7ec-4db7-8cc7-d717f3adbec6" />
-print ticekt page
+**print ticket** 
 <img width="547" height="421" alt="image" src="https://github.com/user-attachments/assets/05fafda6-9348-4538-80db-c0032dab8c94" />
 
 ## Login page for organizer
-<img width="547" height="421" alt="image" src="https://github.com/user-attachments/assets/6dae441b-2fb9-4073-acb5-b6cf2a68539d" />
-home page
+<img width="525" height="387" alt="image" src="https://github.com/user-attachments/assets/a06b3dbe-f697-44a2-8462-8c6c459e5dd5" />
+
+**Home page**
 <img width="745" height="332" alt="image" src="https://github.com/user-attachments/assets/6e90191d-1b29-4169-acba-97d037612249" />
 
 **Organizer Dashboard**
@@ -293,6 +294,7 @@ on going events
 <img width="911" height="419" alt="image" src="https://github.com/user-attachments/assets/109832d5-2833-4434-b47d-9a0e5decd7c0" />
 <img width="869" height="408" alt="image" src="https://github.com/user-attachments/assets/7e024a13-e1bf-49ef-aace-628da459e416" />
 <img width="383" height="419" alt="image" src="https://github.com/user-attachments/assets/f0d99371-5a48-4999-846f-917fdf49ae23" />
+
 
 
 
